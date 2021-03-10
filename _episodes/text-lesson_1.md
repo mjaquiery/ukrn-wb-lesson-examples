@@ -27,6 +27,23 @@ dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 ---
+## What is the OSF?
+
+The OSF ([https://osf.io/](https://osf.io/)) is an online collaboration and project management platform for research projects. 
+The OSF is built and supported by the Center for Open Science ([https://cos.io/](https://cos.io/)), a non-profit organisation for increasing the openness, integrity, and reproducibility of research.
+
+The OSF platform allows researchers to organise projects, store data, create registrations, and publish preprints. 
+Projects can be subdivided into components, for which public and private sharing, collaborations, licensing, and DOIs can be individually managed.
+
+> ## Discussion `5 min`
+> Why should I use the OSF instead of...?
+>
+> Take a few minutes to discuss with the group your current approach to project management. 
+> Is it the same for others in your team/lab/field? 
+> Do you work with collaborators? 
+> How do you share files?
+{: .challenge}
+
 ## Markdown
 
 The text in these episodes is written in markdown.
