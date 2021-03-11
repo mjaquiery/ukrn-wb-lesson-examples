@@ -1,7 +1,7 @@
 ---
 title: Anonymizing Quantitative Data
-teaching: 10
-exercises: 20
+teaching: null
+exercises: 30
 duration: null
 summary: In this lesson we will collaboratively build a checklist to help us in
   anonymising quantitative data so that it can be shared. We will consider how
@@ -69,7 +69,7 @@ Pseudonymisation is the process of turning data from which individual people can
 > >   * Guidance from your government
 > >   * Papers from others in your field
 > >   * Good old web search
-> {: .checklist}
+> {: .solution}
 {: .discussion}
 
 ### Location data
