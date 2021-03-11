@@ -16,7 +16,7 @@ keypoints:
   - Anonymised data are easier to share legally.
   - Remove direct identifiers
   - Reduce precision to stop outliers leading to identification
-  - Consider the potential for cross-identification
+  - Consider the potential for reidentification by cross-tabulating fields
 is-break: null
 ukrn_wb_rules: []
 day: 1
