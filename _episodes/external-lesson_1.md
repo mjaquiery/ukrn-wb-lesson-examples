@@ -71,3 +71,9 @@ Pseudonymisation is the process of turning data from which individual people can
 > >   * Good old web search
 > {: .checklist}
 {: .discussion}
+
+### Location data
+
+Location data renders people especially identifiable. 
+You can use the tool at [https://cpg.doc.ic.ac.uk/individual-risk/](https://cpg.doc.ic.ac.uk/individual-risk/) to explore this - enter some details and scroll down on the second page to where you can add extra attributes. 
+What happens to the identifiability when you check or uncheck the postcode field?
