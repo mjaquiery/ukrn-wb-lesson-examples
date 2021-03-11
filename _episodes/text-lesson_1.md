@@ -48,15 +48,40 @@ Projects can be subdivided into components, for which public and private sharing
 
 The key capabilities of the OSF which matter to most researchers are project management, data storage, and collaboration.
 The aim of the OSF is to be useful enough _to working researchers_ that the sharing and registration features are simply useful additions.
+![OSF My Projects page screenshot](../fig/osf-my-projects.jpg)
 
 ### Project management
 
+The OSF platform allows you to create projects, which can have include files and directories, a license, a wiki, and third-party components (like Google Drive folders, Zotero libraries, and much, much more).
+![OSF Exploring Social Metacognition project screenshot](../fig/osf-esm.jpg)
 
+Each project can have any number of components, which are exactly like projects - they can also have files and directories, licenses, etc., and they can have different collaborators and be made public or private independently of the main project.
+Components can also have other components.
 
 ### Data storage
 
+You can store data directly on the OSF platform, in a section in Files called 'OSF Storage'.
+You can store data in one of three locations, including Frankfurt, Germany, in the EU.
+Private projects can store up to 5gb of data per component (but you can have as many components as you like); public projects can have up to 50gb/component.
+You can also link several other storage platforms, like Google Drive or DropBox, which will list your files in your project without counting towards your used space.
+Any files listed, even those in external storage, are assigned their own unique URL, and the OSF previewer will do its best to generate a preview of the file at that URL, as well as allowing visitors to download the file.
+[Here, for example, is one of the data dictionary files from the project shown above.](https://osf.io/kjm9h/)
+
 ### Collaboration
+
+The OSF is designed with sharing and collaboration in mind. 
+This means that even if you aren't ready to share your project with the public, you can easily add collaborators and define what they are allowed to do with your project.
+Collaborators on the project can be listed as bibliographic contributors, meaning they get included in the citation.
+![OSF Contributors management screenshot](../fig/osf-contributors.jpg)
+
+You can even share a view-only version of your project anonymously: e.g. to allow for blind peer review. 
 
 ### Sharing
 
+If and when you feel like it, you can make individual components or your entire project public, to share your work with the world. 
+Because the platform records when things were uploaded, it can establish primacy of ideas even if you do not share the work until later.
+
 ### Registration
+
+At any stage, you can create a frozen copy of your project as a registration, alongside a registration document which details your current plans for your project.
+This is a good way of tracing the evolution of a project and ensuring that confirmatory tests are distinct from exploratory tests.
