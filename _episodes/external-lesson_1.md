@@ -1,19 +1,24 @@
 ---
-title: External Lesson
-teaching: null
+title: Anonymizing Quantitative Data
+teaching: 10
 exercises: 20
 duration: null
-summary: This template shows you how to use an external tutorial as a lesson.
-questions: null
+summary: In this lesson we will collaboratively build a checklist to help us in
+  anonymising quantitative data so that it can be shared. We will consider how
+  these steps can be done automatically.
+questions:
+  - Why do we need to anonymize data?
+  - How do we anonymize data?
 objectives:
-  - Understand how to upload files to FigShare
+  - Gain an understanding of how to anonymise data
+  - Create a checklist of anonymisation steps for quantitative data
 keypoints:
-  - You have 20gb of private data and unlimited public data
-  - You can upload files up to 5gb in size through your browser
-  - You can upload bigger files by request
+  - Anonymised data are easier to share legally.
+  - Remove direct identifiers
+  - Reduce precision to stop outliers leading to identification
+  - Consider the potential for cross-identification
 is-break: null
-ukrn_wb_rules:
-  - allow-multiple
+ukrn_wb_rules: []
 day: 1
 order: 200000
 missingDependencies: []
