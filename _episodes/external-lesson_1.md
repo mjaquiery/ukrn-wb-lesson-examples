@@ -26,6 +26,18 @@ dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 ---
+## What is anonymisation?
+
+## How might we identify people in a dataset?
+
+## Building a checklist
+
+> ## Resources
+> * [UK Data Service](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/quantitative.aspx)
+> * [Finnish Social Science Data Archive](https://www.fsd.tuni.fi/en/services/data-management-guidelines/anonymisation-and-identifiers/#anonymisation-of-quantitative-data)
+> * [UK Information Commissioner's Office Guidance, Appendix 2](https://ico.org.uk/media/1061/anonymisation-code.pdf)
+{: .solution}
+
 > ## FigShare tutorial `20 min`
 > For this lesson we are going to be following through the FigShare tutorial:
 > <a href="https://help.figshare.com/article/how-to-upload-and-publish-your-data" target="_blank">https://help.figshare.com/article/how-to-upload-and-publish-your-data</a>
