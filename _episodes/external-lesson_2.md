@@ -1,7 +1,7 @@
 ---
 title: Data Sharing Checklist
 teaching: null
-exercises: 30
+exercises: 35
 duration: null
 summary: Presenting the key points from the DCC's data sharing checklist.
 questions:
@@ -80,3 +80,19 @@ In this lesson, we will discuss a condensed form of the [DCC guide on deciding w
 > Are there other considerations that apply to your data?
 {: .discussion}
 
+> ## Costs of sharing
+> * **Curation**: getting the data in an open format; adding metadata and creating a data dictionary.
+> * **Storage**: housing in a repository and keeping available.
+{: .checklist}
+
+> ## Discussion `5 min`
+> Who will pay these costs?
+>
+> Are they time/money costs? 
+> 
+> Will they pay off in the long run? 
+> 
+> Might they benefit you even if you didn't share? 
+>
+> Are there other costs that apply to sharing your data?
+{: .discussion}
