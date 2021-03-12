@@ -50,16 +50,16 @@ If you don't include a waiver or a license people will not know how they can leg
 ## What common data licenses are there to choose?
 
 There are several _families of licenses_ which offer suites of similar licenses that place different restrictions on the users.
-The families covered here are _Creative Commons_, _Open Data Commons_, and _(UK) Government License_.
+The families covered here are _Creative Commons_ (**CC-x**), _Open Data Commons_ (**ODC-x**), and _(UK) Government License_ (**xGL**).
 Each subheading below addresses a different use case.
 
-### Public domain
+### No restrictions
 
 To make your data maximally reusable, at the cost of losing the (legal) right to attribution and any control over how it is used, apply a public domain license. 
 Public domain licenses can consist of a waiver, giving up all your rights, and a permissive license in case the waiver is not acceptable.
 These licenses avoid the _attribution stacking_ problem of attribution licenses, but can only be used where 
 
-* CC0 4.0
+* CC-0 4.0
 * **PDDL**: Open Data Commons Public Domain Dedication and License
 	* The PDDL includes attribution-sharealike requests as community norms, but not as legal requirements
 
@@ -72,11 +72,31 @@ These licenses avoid the _attribution stacking_ problem of attribution licenses,
 
 ### Attribution
 
+You can require that people attribute your work to you when they use it.
+This is a common requirement, and modern licenses usually make it clear what constitutes attribution (e.g. a URL for a page with attribution information).
+A disadvantage to requiring attribution is that it can lead to _attribution stacking_, where attribution lists become unweildy because each derivative of a work must attribute the creators of each previous incarnation.
+
+* **CC-BY 4.0**
+* **ODC-By**
+* **OGL** is designed to minimise attribution stacking by requiring a very basic attribution statement
+
 ### Share-alike (copyleft)
 
-### Commercial use
+You can require that people share derivative works as openly as the original.
+This can be awkward in practice because many copyleft licenses are incompatible with one another, meaning that it can be very difficult to find a way to release resources that include multiple components with sharealike licenses.
 
-### Derivative works
+* **CC-BY-SA 4.0**
+* **ODC-ODbL** allows products derived from a database to be released on an attribution basis, but requires new _databases_ derived from a database to be released on a sharealike basis
+
+### No commercial use
+
+You can require that people release derivatives of your work free of charge.
+It is quite common for work with a non-commercial license to include an alternative license for use by those who wish to use work commercially (acquisition of the work under the more permissive license usually costs money). 
+The definition of commercial can vary - in some cases textbooks or academic articles may count as commercial (even if the person producing the derivative work doesn't get the money). 
+
+* **CC-BY-NC 4.0**
+* **CC-BY-NC-SA 4.0** includes a sharealike clause alongside the non-commerical requirement
+* **NCGL** is designed to minimise attribution stacking with a minimal acknowledgement notice, and has no sharealike requirement
 
 > ## Discussion `15 min`
 > Which licensing approach seems most relevant for your data?
