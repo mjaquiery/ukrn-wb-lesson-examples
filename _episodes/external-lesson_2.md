@@ -1,16 +1,20 @@
 ---
-title: External Lesson
-teaching: null
-exercises: 20
+title: Data Sharing Checklist
+teaching: 15
+exercises: null
 duration: null
-summary: This template shows you how to use an external tutorial as a lesson.
-questions: null
+summary: Presenting the key points from the DCC's data sharing checklist.
+questions:
+  - Why are we sharing the data?
+  - Which data should we share?
+  - How much time/money will it cost?
 objectives:
-  - Understand how to upload files to FigShare
+  - Understand how the key data sharing questions relate to your work
 keypoints:
-  - You have 20gb of private data and unlimited public data
-  - You can upload files up to 5gb in size through your browser
-  - You can upload bigger files by request
+  - There are several common reasons for sharing data, including verification of
+    results and further analysis.
+  - Generally, if you can share data, do.
+  - Sharing data has time and money costs - who is paying them?
 is-break: null
 ukrn_wb_rules: []
 day: 1
